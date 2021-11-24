@@ -1,7 +1,7 @@
 ---
-title: {Projekt}
+title: {Projektmanagement-Software}
 tags: agil klassisch
-author: {GitHubUserName}
+author: {mttno1}
 anrechnung: k oder a
 ---
 
